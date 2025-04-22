@@ -24,11 +24,6 @@
     - **application(用途)：**
     得出一个一维数组中所有元素与第一个<(<=……>)的元素间的距离。
     - **codes(代码)：**     
-    `abc`  
-    <abc>  
-    > 总结 
-    >> 123
-    >>> 396
     ```  
     monotonic_stack stack;
     for(i=0;i'<'n;++i){ 
